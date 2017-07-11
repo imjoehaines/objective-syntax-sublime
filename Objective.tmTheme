@@ -16,7 +16,7 @@
         <string>#8ba7a7</string>
 
         <key>foreground</key>
-        <string>#31323350</string>
+        <string>#333</string>
 
         <key>lineHighlight</key>
         <string>#0000000c</string>
@@ -71,6 +71,9 @@
       <dict>
         <key>fontStyle</key>
         <string />
+
+        <key>foreground</key>
+        <string>#3eb991</string>
       </dict>
     </dict>
 
